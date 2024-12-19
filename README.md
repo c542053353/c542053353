@@ -1,4 +1,8 @@
-![webwxgetmsgimg](https://github.com/user-attachments/assets/2c819cb9-1c92-4801-b08f-f325f114c6e2)
+
+
+https://github.com/user-attachments/assets/4eb6c92e-7a22-4dcc-966d-6bd4c57611df
+
+
 眼镜西施
 - 👋 Hi, I’m @c542053353
 - 👀 I’m a student
@@ -11,7 +15,11 @@
 <!---
 c542053353/c542053353 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->![webwxgetmsgimg](https://github.com/user-attachments/assets/5811bd50-c405-40d9-8f46-540f2fb1160d)
+--->
+
+Uploading 3db1c9421305472cb933526a7aa6cc68.mp4…
+
+
 美女
 眼镜西施
 The Pi@Czh542053353of China
